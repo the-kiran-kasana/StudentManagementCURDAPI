@@ -31,7 +31,6 @@ public class StudentService {
     }
 
     public Student updateStudent(Long id, Student updatedStudent) {
-        // Implement update logic based on your requirements
         return studentRepository.save(updatedStudent);
     }
 }
