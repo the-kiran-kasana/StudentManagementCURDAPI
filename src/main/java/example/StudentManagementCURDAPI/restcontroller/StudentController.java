@@ -1,4 +1,4 @@
-package example.StudentManagementCURDAPI.controller;
+package example.StudentManagementCURDAPI.restcontroller;
 
 import java.util.List;
 
